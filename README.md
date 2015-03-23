@@ -1,2 +1,2 @@
 # rayt
-ray tracer
+ray tracer - 3d figures with ray light.
